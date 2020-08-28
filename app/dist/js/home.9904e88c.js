@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["home"],{"77b8":function(e,n,t){"use strict";t.r(n);var s=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"hove-page"},[e._v(" 主页 ")])},a=[],l={},c=l,o=t("2877"),u=Object(o["a"])(c,s,a,!1,null,null,null);n["default"]=u.exports}}]);
+//# sourceMappingURL=home.9904e88c.js.map
